@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70f9fa14-c3df-4627-9141-29120152812f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java/SpringBootArchitectureLearning/learningSpringArchitecture/src/main/java/com/practice/learningSpringArchitecture/paymentRazorPay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/SpringBootArchitectureLearning/learningSpringArchitecture/src/main/java/com/practice/learningSpringArchitecture/LearningSpringArchitectureApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/SpringBootArchitectureLearning/learningSpringArchitecture/src/main/java/com/practice/learningSpringArchitecture/LearningSpringArchitectureApplication.java" afterDir="false" />
-    </list>
+    <list default="true" id="70f9fa14-c3df-4627-9141-29120152812f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
