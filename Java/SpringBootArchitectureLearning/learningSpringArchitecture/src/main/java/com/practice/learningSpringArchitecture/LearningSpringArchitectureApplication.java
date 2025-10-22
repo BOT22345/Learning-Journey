@@ -10,6 +10,7 @@ public class LearningSpringArchitectureApplication implements CommandLineRunner{
     public static void main(String[] args) {
         SpringApplication.run(LearningSpringArchitectureApplication.class, args);
     }
+
     private paymentRazorPay payer;
     public LearningSpringArchitectureApplication(paymentRazorPay payer){
         this.payer=payer;
